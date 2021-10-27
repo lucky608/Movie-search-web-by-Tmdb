@@ -1,8 +1,8 @@
 
 //apis 
-const APIURL = "api-url";
-const IMGPATH='poster path';
-const SEARCHAPI="search path";
+const APIURL = "";
+const IMGPATH='';
+const SEARCHAPI="";
 
 //all html attribute
 const main=document.querySelector('main');

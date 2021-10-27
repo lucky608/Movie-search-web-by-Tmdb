@@ -1,0 +1,3 @@
+ APIURL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=fb8226fc46f46a1327e3bef530f6bf5c&page=1";
+ IMGPATH='https://image.tmdb.org/t/p/w1280';
+ SEARCHAPI="https://api.themoviedb.org/3/search/movie?sort_by=popularity.desc&api_key=fb8226fc46f46a1327e3bef530f6bf5c&query=";
