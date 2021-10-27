@@ -93,7 +93,7 @@ async function getMovies(url){
 
 
   //search event on click 
-
+//all code are in under construction from here
 form.addEventListener("submit",(e)=>{
       e.preventDefault();
 
