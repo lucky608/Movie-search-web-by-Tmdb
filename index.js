@@ -116,7 +116,7 @@ form.addEventListener("submit",(e)=>{
 
  }
 
-
+//update my code
 
 //for onclick and show movie details
 main.addEventListener("click", (e)=>{
