@@ -1,8 +1,8 @@
 
 //apis 
-const APIURL = "";
-const IMGPATH='';
-const SEARCHAPI="";
+const APIURL = "https://api.themoviedb.org/3/discover/movie?sort_by=populerity.desc&api_key=fb8226fc46f46a1327e3bef530f6bf5c& page=1";
+const IMGPATH='https://image.tmdb.org/t/p/w500/';
+const SEARCHAPI="https://api.themoviedb.org/3/search/movie?api_key=fb8226fc46f46a1327e3bef530f6bf5c&query=";
 
 //all html attribute
 const main=document.querySelector('main');
